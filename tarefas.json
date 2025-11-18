@@ -1,0 +1,20 @@
+[
+    {
+        "ID": 1,
+        "titulo": "lavar roupa",
+        "prioridade": "Baixa",
+        "status": "Concluida",
+        "origem": "Email",
+        "data_criacao": "2025-11-18T20:05:03.340736",
+        "data_conclusao": "2025-11-18T20:06:40.703246"
+    },
+    {
+        "ID": 2,
+        "titulo": "varrer",
+        "prioridade": "Alta",
+        "status": "Excluida",
+        "origem": "Telefone",
+        "data_criacao": "2025-11-18T20:08:06.425572",
+        "data_conclusao": null
+    }
+]
